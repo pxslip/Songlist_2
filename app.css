@@ -1,6 +1,6 @@
 :root 
 {
-	--StSL_font: aerial;
+	--StSL_font: arial;
 	--StSL_title_size: 45px;
 	--StSL_title_color: #FFAAAA;
 	--StSL_song_size: 45px;
@@ -10,22 +10,22 @@
 
 body 
 {
-    background: none;
-    margin: 0;
-    font-family: var(--StSL_font);
+	background: none;
+	margin: 0;
+	font-family: var(--StSL_font);
 	overflow: none;
 }
 
 #streamersonglist-container 
 {
-    width: auto;
-    background: none;
+	width: auto;
+	background: none;
 }
 .screenTitle 
 {
-    font-size: var(--StSL_title_size);
+	font-size: var(--StSL_title_size);
 	width: auto;
-    white-space: nowrap;
+	white-space: nowrap;
 	text-align: center;
 	color: var(--StSL_song_color);
 	line-height: var(--StSL_line_height);
@@ -33,9 +33,9 @@ body
 
 .songTitle 
 {
-    font-size: var(--StSL_song_size);
+	font-size: var(--StSL_song_size);
 	width: auto;
-    white-space: nowrap;
+	white-space: nowrap;
 	text-align: center;
 	color: var(--StSL_title_color);
 	line-height: var(--StSL_line_height);
