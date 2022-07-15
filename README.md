@@ -4,7 +4,7 @@ Original code by OldDepressedGamer/@SilenusTA, rewritten in vanilla JS by me @px
 
 ## Usage
 
-- Update the variables at the top of `streamersonglist.js` to tweak the behavior as desired.
+- Update the variables at the top of `app.js` to tweak the behavior as desired.
 
 ## Development
 
