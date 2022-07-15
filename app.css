@@ -1,28 +1,24 @@
-:root 
-{
+:root {
 	--StSL_font: arial;
 	--StSL_title_size: 45px;
-	--StSL_title_color: #FFAAAA;
+	--StSL_title_color: #ffaaaa;
 	--StSL_song_size: 45px;
-	--StSL_song_color: #AAAAAA;
+	--StSL_song_color: #aaaaaa;
 	--StSL_line_height: 1.1;
 }
 
-body 
-{
+body {
 	background: none;
 	margin: 0;
 	font-family: var(--StSL_font);
 	overflow: none;
 }
 
-#streamersonglist-container 
-{
+#streamersonglist-container {
 	width: auto;
 	background: none;
 }
-.screenTitle 
-{
+.screenTitle {
 	font-size: var(--StSL_title_size);
 	width: auto;
 	white-space: nowrap;
@@ -31,8 +27,7 @@ body
 	line-height: var(--StSL_line_height);
 }
 
-.songTitle 
-{
+.songTitle {
 	font-size: var(--StSL_song_size);
 	width: auto;
 	white-space: nowrap;
@@ -40,4 +35,3 @@ body
 	color: var(--StSL_title_color);
 	line-height: var(--StSL_line_height);
 }
-
