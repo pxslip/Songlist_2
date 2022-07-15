@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "id": 7137843,
+      "note": "",
+      "botRequestBy": null,
+      "nonlistSong": null,
+      "donationAmount": 0,
+      "createdAt": "2022-07-15T02:08:44.650Z",
+      "songId": 185519,
+      "streamerId": 2878,
+      "song": {
+        "id": 185519,
+        "title": "How Far",
+        "artist": "ResurrectionFern",
+        "createdAt": "2019-08-05T21:40:17.000Z",
+        "comment": "",
+        "capo": "",
+        "attributeIds": [3577]
+      },
+      "requests": [{ "id": 8172426, "name": "", "note": null, "amount": 0, "source": "manual", "inChat": false }],
+      "position": 1
+    },
+    {
+      "id": 7137849,
+      "note": "",
+      "botRequestBy": null,
+      "nonlistSong": "Custom Song",
+      "donationAmount": 0,
+      "createdAt": "2022-07-15T02:09:18.681Z",
+      "songId": null,
+      "streamerId": 2878,
+      "song": null,
+      "requests": [{ "id": 8172432, "name": "", "note": null, "amount": 0, "source": "manual", "inChat": false }],
+      "position": 2
+    }
+  ],
+  "status": { "songsPlayedToday": 18 }
+}
